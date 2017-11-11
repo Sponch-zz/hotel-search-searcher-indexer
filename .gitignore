@@ -1,0 +1,11 @@
+solr-config/.idea/*
+solr-config/.settings/*
+.idea/*
+search-hotels.iml
+home/hotels/data/
+solr-config/home/hotels/conf/data/
+ws-search-result-app/target/
+ws-search-result-app/.idea/
+search-hotels-indexer/.idea/
+search-hotels-indexer/target/
+solr-config/home/hotels/data/

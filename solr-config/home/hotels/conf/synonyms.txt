@@ -1,0 +1,84 @@
+# The ASF licenses this file to You under the Apache License, Version 2.0
+# (the "License"); you may not use this file except in compliance with
+# the License.  You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+#-----------------------------------------------------------------------
+1, one
+2, two
+3, three
+4, four, for
+5, five
+6, six
+7, seven
+8, eight
+9, nine
+10, ten
+& =>  and
+
+pousada, inn
+albergue, hostel
+resort, balneario, estancia
+
+blue sky => bluesky, blue sky
+
+Miami, FL
+Alabama,AL
+Montana,MT
+Alaska,AK
+Nebraska,NE
+Arizona,AZ
+Nevada,NV
+Arkansas,AR
+New Hampshire,NH
+California,CA
+New Jersey,NJ
+Colorado,CO
+New Mexico,NM
+Connecticut,CT
+New York,NY
+Delaware,DE
+North Carolina,NC
+Florida,FL
+North Dakota,ND
+Georgia,GA
+Ohio,OH
+Hawaii,HI
+Oklahoma,OK
+Idaho,ID
+Oregon,OR
+Illinois,IL
+Pennsylvania,PA
+Indiana,IN
+Rhode Island,RI
+Iowa,IA
+South Carolina,SC
+Kansas,KS
+South Dakota,SD
+Kentucky,KY
+Tennessee,TN
+Louisiana,LA
+Texas,TX
+Maine,ME
+Utah,UT
+Maryland,MD
+Vermont,VT
+Massachusetts,MA
+Virginia,VA
+Michigan,MI
+Washington,WA
+Minnesota,MN
+West Virginia,WV
+Mississippi,MS
+Wisconsin,WI
+Missouri,MO
+Wyoming,WY
+
+
