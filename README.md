@@ -2,11 +2,11 @@
 
 This project is divided in 3 components:
 
-[solr-config](https://bitbucket.org/csponchiado/search-hotels/src/HEAD/solr-config/?at=master) - Configuration of Solr
+[solr-config](https://github.com/Sponch/hotel-search-searcher-indexer/tree/master/solr-config) - Configuration of Solr
 
-[search-hotels-indexer](https://bitbucket.org/csponchiado/search-hotels/src/HEAD/search-hotels-indexer/?at=master) - Indexer of hotels
+[search-hotels-indexer](https://github.com/Sponch/hotel-search-searcher-indexer/tree/master/search-hotels-indexer) - Indexer of hotels
 
-[ws-search-result-app](https://bitbucket.org/csponchiado/search-hotels/src/HEAD/ws-search-result-app/?at=master) - Service REST and HTML page
+[ws-search-result-app](https://github.com/Sponch/hotel-search-searcher-indexer/tree/master/ws-search-result-app) - Service REST and HTML page
 
 ## Procediments ##
 
