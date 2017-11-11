@@ -13,7 +13,7 @@ This project is divided in 3 components:
 1. Clone this project in your home:
     
         cd ~/
-        git clone git@bitbucket.org:csponchiado/search-hotels.git
+        git clone git@github.com:Sponch/hotel-search-searcher-indexer.git
  
 
 2. Install Solr
