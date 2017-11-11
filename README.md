@@ -120,14 +120,4 @@ For adjust of the relevance, I've used the following strategies:
                 name_exact^2
                 city_exact
                 country_exact# hotel-search-searcher-indexer
-# hotel-search-searcher-indexer
-# hotel-search-searcher-indexer
-# hotel-search-searcher-indexer
-# hotel-search-searcher-indexer
-# hotel-search-searcher-indexer
-# hotel-search-searcher-indexer
-# hotel-search-searcher-indexer
-# hotel-search-searcher-indexer
-# hotel-search-searcher-indexer
-# hotel-search-searcher-indexer
-# hotel-search-searcher-indexer
+
