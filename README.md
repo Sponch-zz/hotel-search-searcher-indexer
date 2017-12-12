@@ -28,7 +28,7 @@ This project is divided in 3 components:
                
 4. Run the Solr
 
-        bin/solr start -f -s  ~/search-hotels/solr-config/home
+        bin/solr start -f -s  ~/hotel-search-searcher-indexer/solr-config/home
  
        
 5. Access this URL to check if the core was created correctly
