@@ -38,7 +38,7 @@ This project is divided in 3 components:
 
 6. Enter inside the search-hotels-indexer
 
-        cd ~/search-hotels/search-hotels-indexer
+        cd ~/hotel-search-searcher-indexer/search-hotels-indexer
         
 
 7. Run the following command
@@ -53,7 +53,7 @@ This project is divided in 3 components:
     
 9. Access the component ws-search-result-app
 
-        cd ~/search-hotels/ws-search-result-app
+        cd ~/hotel-search-searcher-indexer/ws-search-result-app
       
   
 10. Run the app
